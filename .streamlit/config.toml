@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF9900"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
